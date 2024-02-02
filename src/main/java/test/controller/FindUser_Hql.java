@@ -1,6 +1,6 @@
 package test.controller;
 
-import com.test.hib.model.User;
+import test.model.User;
 import jakarta.persistence.TypedQuery;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
